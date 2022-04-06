@@ -1,3 +1,5 @@
+<img src="https://github.com/vectrlab/apex-stats-modules/raw/main/images/APEX_logo.png" alt="APEX: Applied Programming Experiences Logo" style="height:4em;">
+
 # APEX STATS Modules
 
 APEX STATS is a set of editable, modular resources that use Python as instructional technology to make it easier for instructors to teach introductory statistics.
