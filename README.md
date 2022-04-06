@@ -1,4 +1,4 @@
-<img src="https://github.com/vectrlab/apex-stats-modules/raw/main/images/APEX_logo.png" alt="APEX: Applied Programming Experiences Logo" style="height:4em;">
+<img src="https://github.com/vectrlab/apex-stats-modules/raw/main/images/APEX_logo.png" alt="APEX: Applied Programming Experiences Logo" style="height:10em;">
 
 # APEX STATS Modules
 
