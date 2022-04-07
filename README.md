@@ -2,7 +2,7 @@
 
 # APEX STATS Modules
 
-These are prebuilt modules ready for use or modification in your course. A module brings together one or more dataset examples with a series of code snippets. See the instructor guide for more information.
+These are prebuilt modules ready for use or modification in your course. A module brings together one or more dataset examples with a series of code snippets. See the <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Instructor_Guide.ipynb">instructor guide</a> for more information.
 
 # About APEX STATS
 
@@ -14,5 +14,5 @@ APEX STATS is aligned to the California Transfer and Articulation System, <a hre
 
 APEX STATS is a work in progress! We are taking an iterative, instructor-centered design approach. Your feedback about what is working and not working in APEX STATS will be used to help improve the project.
 
-To get started, check out the instructor guide.
+To get started, check out the <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Instructor_Guide.ipynb">instructor guide</a>.
 
