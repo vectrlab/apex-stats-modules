@@ -4,7 +4,7 @@
 
 These are prebuilt modules ready for use or modification in your course. A module brings together one or more dataset examples with a series of code snippets. See the <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Instructor_Guide.ipynb">instructor guide</a> for more information.
 
-# About APEX STATS
+## About APEX STATS
 
 APEX STATS is a set of editable, modular resources that use Python as instructional technology to make it easier for instructors to teach introductory statistics.
 
@@ -16,3 +16,8 @@ APEX STATS is a work in progress! We are taking an iterative, instructor-centere
 
 To get started, check out the <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Instructor_Guide.ipynb">instructor guide</a>.
 
+## APEX STATS Resources
+- <a href="https://github.com/vectrlab/apex-stats-modules/">Modules</a>
+- <a href="https://github.com/vectrlab/apex-stats-datasets/">Datasets</a>
+- <a href="https://github.com/vectrlab/apex-stats-modules/">Code Snippet Library</a>
+- <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Module_Construction_Kit.ipynb">Module Construction Kit</a>
