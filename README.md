@@ -4,6 +4,16 @@
 
 These are prebuilt modules ready for use or modification in your course. A module brings together one or more dataset examples with a series of code snippets. See the <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Instructor_Guide.ipynb">instructor guide</a> for more information.
 
+## Quick Start
+
+Start doing statistics in Python right now by exploring the completed modules:
+
+1. Introduction (in development)
+2. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Descriptive_Statistics.ipynb">Descriptive Statistics</a>
+3. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Distributions.ipynb">Describing Distributions</a>
+4. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Central_Limit_Theorem.ipynb">Central Limit Theorem</a>
+5. Null Hypothesis Significance Testing (in development)
+
 ## About APEX STATS
 
 APEX STATS is a set of open, editable, and modular resources that use Python as instructional technology to make it easier to teach introductory statistics.
