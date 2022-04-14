@@ -12,7 +12,6 @@ Start doing statistics in Python right now by exploring the completed modules:
 2. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Descriptive_Statistics.ipynb">Descriptive Statistics</a>
 3. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Distributions.ipynb">Describing Distributions</a>
 4. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Central_Limit_Theorem.ipynb">Central Limit Theorem</a>
-5. Null Hypothesis Significance Testing (in development)
 
 ## About APEX STATS
 
