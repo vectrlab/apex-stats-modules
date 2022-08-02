@@ -9,15 +9,17 @@ These are prebuilt modules ready for use or modification in your course. A modul
 Start doing statistics in Python right now by exploring the completed modules:
 
 1. Introduction (in development)
-2. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Descriptive_Statistics.ipynb">Descriptive Statistics</a>
-3. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Distributions.ipynb">Describing Distributions</a>
-4. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Central_Limit_Theorem.ipynb">Central Limit Theorem</a>
+2. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Frequency_Distributions.ipynb">Frequency Distributions</a>
+3. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Central_Tendency.ipynb">Central Tendency</a>
+4. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Variability.ipynb">Variability</a>
+5. Central Limit Theorem (in development)
+6. Hypothesis Testing (in development)
 
 ## About APEX STATS
 
 APEX STATS is a set of open, editable, and modular resources that use Python as instructional technology to make it easier to teach introductory statistics.
 
-The goal of the APEX STATS modules is to teach statistical reasoning and concepts through examples that incorporate Python. The modules expose students to Python gradually and provide opportunities for them to modify code to perform analysis. Prior Python background is not necessary to progress through the modules. Students will grow more comfortable with Python as they discover how useful it is. Instructors can use APEX STATS modules to teach statistical concepts without needing to emphasize Python. Meanwhie, the Python code is always visible and editable for students and instructors to discover the fun challenge of computer programming.
+The goal of the APEX STATS modules is to teach statistical reasoning and concepts through examples that incorporate Python. The modules expose students to Python gradually and provide opportunities for them to modify code to perform analysis. Prior Python background is not necessary to progress through the modules. Students will grow more comfortable with Python as they discover its usefulness. Instructors can use APEX STATS modules to teach statistical concepts without needing to emphasize Python. Meanwhie, the Python code is always visible and editable for students and instructors to discover the fun challenge of computer programming.
 
 APEX STATS is aligned to the California Transfer and Articulation System, <a href="https://www.c-id.net">C-ID</a>, for <a href="https://www.c-id.net/descriptors/final/show/365">Introduction to Statistics</a>. Therefore, it should be useful for many introductory statistics courses and any California college course. 
 
