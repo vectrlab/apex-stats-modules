@@ -13,7 +13,7 @@ Start doing statistics in Python right now by exploring the completed modules:
 3. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Central_Tendency.ipynb">Central Tendency</a>
 4. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Variability.ipynb">Variability</a>
 5. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Visualizing_Distributions.ipynb">Visualizing Distributions</a> (beta)
-6. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/z_Scores.ipynb">z-Scores</a> (beta)
+6. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/z_Scores.ipynb">z-Scores</a>
 7. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Area_Under_the_Normal_Curve.ipynb">Area Under the Normal Curve</a> (beta)
 8. Central Limit Theorem (in development)
 9. Hypothesis Testing (in development)
