@@ -17,7 +17,7 @@ Start doing statistics in Python right now by exploring the completed modules:
 7. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Area_Under_the_Normal_Curve.ipynb">Area Under the Normal Curve</a> (beta)
 8. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Sampling.ipynb">Sampling</a> (beta)
 9. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Sample_Size_and_Error.ipynb">Sample Size and Error</a> (beta)
-10. <a href="https://github.com/vectrlab/apex-stats-modules/blob/main/Central_Limit_Theorem.ipynb">Central Limit Theorem</a> (beta)
+10. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Central_Limit_Theorem.ipynb">Central Limit Theorem</a> (beta)
 11. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Hypothesis_Testing_Concepts.ipynb">Hypothesis Testing Concepts</a> (beta)
 12. One-Sample z-Test (in development)
 
