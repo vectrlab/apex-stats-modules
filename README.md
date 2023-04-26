@@ -8,7 +8,7 @@ These are prebuilt modules ready for use or modification in your course. A modul
 
 Start doing statistics in Python right now by exploring the completed modules:
 
-1. Data and Measurement (in development)
+1. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Data_and_Measurement.ipynb">Data and Measurement</a> (beta)
 2. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Frequency_Distributions.ipynb">Frequency Distributions</a>
 3. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Central_Tendency.ipynb">Central Tendency</a>
 4. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Variability.ipynb">Variability</a>
