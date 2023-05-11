@@ -20,6 +20,7 @@ Start doing statistics in Python right now by exploring the completed modules:
 10. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Central_Limit_Theorem.ipynb">Central Limit Theorem</a> (beta)
 11. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Hypothesis_Testing_Concepts.ipynb">Hypothesis Testing Concepts</a> (beta)
 12. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Hypothesis_Testing_One_Sample_z_Test.ipynb">One-Sample z-Test</a> (beta)
+13. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Linear_Regression.ipynb">Linear Regression</a> (beta)
 
 ## About APEX STATS
 
