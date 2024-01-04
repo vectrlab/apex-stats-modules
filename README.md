@@ -24,6 +24,7 @@ Start doing statistics in Python right now by exploring the completed modules:
 14. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Independent_Samples_t_Test.ipynb">Independent Samples t-Test</a> (beta)
 15. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/ANOVA.ipynb">Analysis of Variance (ANOVA)</a> (beta)
 16. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Bean_Machine.ipynb">Bean Machine</a> (beta)
+17. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Sampling_Techniques.ipynb">Sampling Techniques</a> (beta)
     
 ## About APEX STATS
 
