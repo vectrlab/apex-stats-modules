@@ -21,7 +21,10 @@ Start doing statistics in Python right now by exploring the completed modules:
 11. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Hypothesis_Testing_Concepts.ipynb">Hypothesis Testing Concepts</a> (beta)
 12. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Hypothesis_Testing_One_Sample_z_Test.ipynb">One-Sample z-Test</a> (beta)
 13. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Linear_Regression.ipynb">Linear Regression</a> (beta)
-
+14. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Independent_Samples_t_Test.ipynb">Independent Samples t-Test</a> (beta)
+15. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/ANOVA.ipynb">Analysis of Variance (ANOVA)</a> (beta)
+16. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Bean_Machine.ipynb">Bean Machine</a> (beta)
+    
 ## About APEX STATS
 
 APEX STATS is a set of open, editable, and modular resources that use Python as instructional technology to make it easier to teach introductory statistics.
