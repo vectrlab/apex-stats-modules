@@ -8,19 +8,19 @@ These are prebuilt modules ready for use or modification in your course. A modul
 
 Start doing statistics in Python right now by exploring the completed modules:
 
-1. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Data_and_Measurement.ipynb">Data and Measurement</a> (beta)
+1. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Data_and_Measurement.ipynb">Data and Measurement</a>
 2. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Frequency_Distributions.ipynb">Frequency Distributions</a>
 3. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Central_Tendency.ipynb">Central Tendency</a>
 4. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Variability.ipynb">Variability</a>
 5. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Visualizing_Distributions.ipynb">Visualizing Distributions</a>  
 6. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/z_Scores.ipynb">z-Scores</a>
 7. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Area_Under_the_Normal_Curve.ipynb">Area Under the Normal Curve</a> 
-8. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Sampling.ipynb">Sampling</a> (beta)
-9. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Sample_Size_and_Error.ipynb">Sample Size and Error</a> (beta)
-10. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Central_Limit_Theorem.ipynb">Central Limit Theorem</a> (beta)
-11. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Hypothesis_Testing_Concepts.ipynb">Hypothesis Testing Concepts</a> (beta)
-12. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Hypothesis_Testing_One_Sample_z_Test.ipynb">One-Sample z-Test</a> (beta)
-13. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Linear_Regression.ipynb">Linear Regression</a> (beta)
+8. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Sampling.ipynb">Sampling</a>
+9. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Sample_Size_and_Error.ipynb">Sample Size and Error</a>
+10. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Central_Limit_Theorem.ipynb">Central Limit Theorem</a>
+11. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Hypothesis_Testing_Concepts.ipynb">Hypothesis Testing Concepts</a>
+12. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Hypothesis_Testing_One_Sample_z_Test.ipynb">One-Sample z-Test</a>
+13. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Linear_Regression.ipynb">Linear Regression</a>
 14. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Independent_Samples_t_Test.ipynb">Independent Samples t-Test</a> (beta)
 15. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/ANOVA.ipynb">Analysis of Variance (ANOVA)</a> (beta)
 16. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Bean_Machine.ipynb">Bean Machine</a> (beta)
