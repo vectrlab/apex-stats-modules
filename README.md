@@ -42,12 +42,6 @@ The goal of the APEX STATS modules is to teach statistical reasoning and concept
 
 APEX STATS is aligned to the California Transfer and Articulation System, <a href="https://www.c-id.net">C-ID</a>, for <a href="https://www.c-id.net/descriptors/final/show/365">Introduction to Statistics</a>. It offers 100% coverage of C-ID learning objectives and all listed topics except binomial distributions. Therefore, it should be useful for many introductory statistics courses and any California college course. 
 
-APEX STATS offers complete Introduction to Statistics materials:
-100% coverage of C-ID learning objectives and all listed topics except binomial distributions
-84% of CMU OLI textbook learning objectives covered
-Learning objectives to APEX module content mapping now available
-
-
 APEX STATS is a work in progress. We are taking an iterative, instructor-centered design approach. Your feedback helps us improve the project.
 
 APEX is the <a href="https://sjsu.edu/apex/">Applied Computing Programming Experiences</a> project at San Jos&eacute; State University.
