@@ -14,23 +14,23 @@ Start doing statistics in Python right now by exploring the completed modules:
 4. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Variability.ipynb">Variability</a>
 5. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Visualizing_Distributions.ipynb">Visualizing Distributions</a>  
 6. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/z_Scores.ipynb">z-Scores</a>
-7. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Intro_to_Probability.ipynb">Introduction to Probability</a> (first draft)
+7. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Intro_to_Probability.ipynb">Introduction to Probability</a>
 8. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Area_Under_the_Normal_Curve.ipynb">Area Under the Normal Curve</a>
 9. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Sampling.ipynb">Sampling</a>
-10. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Sampling_Techniques.ipynb">Sampling Techniques</a> (beta)
+10. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Sampling_Techniques.ipynb">Sampling Techniques</a>
 11. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Sample_Size_and_Error.ipynb">Sample Size and Error</a>
 12. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Central_Limit_Theorem.ipynb">Central Limit Theorem</a>
-13. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Confidence_Intervals.ipynb">Confidence Intervals</a> (first draft)
-14. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Confidence_Interval_Width.ipynb">Width of Confidence Intervals</a> (first draft)
+13. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Confidence_Intervals.ipynb">Confidence Intervals</a>
+14. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Confidence_Interval_Width.ipynb">Width of Confidence Intervals</a> 
 15. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Hypothesis_Testing_Concepts.ipynb">Hypothesis Testing Concepts</a>
 16. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Hypothesis_Testing_One_Sample_z_Test.ipynb">One-Sample z-Test</a>
 17. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Linear_Regression.ipynb">Linear Regression</a>
-18. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Independent_Samples_t_Test.ipynb">Independent Samples t-Test</a> (beta)
-19. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Paired_Samples_t_Test.ipynb">Paired Samples t-Test</a> (first draft)
-20. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/ANOVA.ipynb">Analysis of Variance (ANOVA)</a> (beta)
-21. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Bean_Machine.ipynb">Bean Machine</a> (beta)
-22. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Chi_Square.ipynb">Chi-square</a> (beta)
-23. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Two_Way_Chi_Square.ipynb">Chi-square Test for Independence (Two-Way)</a> (first draft)
+18. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Independent_Samples_t_Test.ipynb">Independent Samples t-Test</a>
+19. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Paired_Samples_t_Test.ipynb">Paired Samples t-Test</a> 
+20. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/ANOVA.ipynb">Analysis of Variance (ANOVA)</a>
+21. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Bean_Machine.ipynb">Bean Machine Demonstration</a>
+22. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Chi_Square.ipynb">Chi-square</a>
+23. <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Two_Way_Chi_Square.ipynb">Chi-square Test for Independence (Two-Way)</a> 
 
 *The modules have been renumbered to follow the recommended sequence. If you were previously referencing modules by number, you can access the <a href="https://github.com/vectrlab/apex-stats-modules/blob/0d9b65d4a7c7f1285f798088b1474d137966c219/README.md">old numbering here</a>.
     
