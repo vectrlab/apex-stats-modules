@@ -4,6 +4,8 @@
 
 These are prebuilt modules ready for use or modification in your course. A module brings together one or more dataset examples with a series of code snippets. See the <a href="https://colab.research.google.com/github/vectrlab/apex-stats-modules/blob/main/Instructor_Guide.ipynb">instructor guide</a> for more information.
 
+For accordion-style modules, visit [APEX STATS Accordion Modules](https://github.com/vectrlab/apex-stats-modules/tree/accordion_style?tab=readme-ov-file#apex-stats-accordion-modules). Alternatively, you can scroll up on this page and use the branch dropdown menu (top-left, above the list of files) and switch from `main` to `accordion-style`.
+
 ## Quick Start
 
 Start doing statistics in Python right now by exploring the completed modules:
